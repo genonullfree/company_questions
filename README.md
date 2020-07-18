@@ -1,6 +1,6 @@
 # Company Questions
 
-I work at a "Cyber" company with a lot of people coming straight out of college, and for many of our new hires this is their first job. I have heard many of them say they had no idea of questions to ask potential employees. To attempt to be helpful, I've compiled a list of questions to pull from when talking to potential employers. The idea is that one could use this list to get a better feel for a company, rather than getting into a potentially disappointing situation that could have been avoided by asking a few more questions. I'm sure lists like this exist all over, so if you're unhappy with this one feel free to make a pull request or just look for a better one.
+I work at a "Cyber" company with a lot of people coming straight out of college, and for many of our new hires this is their first job. I have heard many of them say they had no idea of questions to ask potential employees. To attempt to be helpful, I've compiled a list of questions to pull from when talking to potential employers. The idea is that one could use this list to get a better feel for a company, rather than getting into a potentially disappointing situation that could have been avoided by asking a few more questions. I'm sure lists better than this one exist all over, so if you're unhappy with this one and want to help it improve, feel free to make a pull request.
 
 The purpose of these questions isn't to force a right or wrong answer, but to help you get to know what kind of company you are looking at joining.
 
