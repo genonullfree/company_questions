@@ -26,7 +26,9 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 - [ ] Is there a standardized chat client?
 - [ ] Is there a standardized documents or presentation software?
 - [ ] Is there a standardized video chat platform?
+- [ ] Is there a compliance or employee monitoring software client?
 - [ ] Is there a company newsletter/email? Frequncy?
+- [ ] Is there a removable media logging / usage / authorization requirement? If so, what are the procedures?
 - [ ] Are there company meetings? Frequency?
 
 # Money Questions
@@ -51,6 +53,12 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 - [ ] What payroll system do you use?
 - [ ] What reimbursement system do you use?
 - [ ] What timekeeping system do you use?
+
+# Intellectual Property
+
+- [ ] Is there a policy about Intellectual Property when developed on company time?
+- [ ] Is there a policy about Intellectual Property when not developed on company time, such as a side project?
+- [ ] Is there a policy or procedure in place for applying for patents (if applicable)?
 
 # Benefit Questions
 
