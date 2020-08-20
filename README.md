@@ -38,6 +38,9 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 - [ ] What are the average bonuses, (per organizational level,) per year?
 - [ ] How often are cost of living increases?
 - [ ] What is the typical raise schedule?
+- [ ] Who owns the company?
+- [ ] Is there a way to build equity in the company?
+- [ ] Is there a company stock program?
 
 # Travel Questions
 
@@ -62,7 +65,7 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 
 # Benefit Questions
 
-- [ ] Is there a 401k plan? Is there company matching?
+- [ ] Is there a 401k plan? Is there company matching? Is there a vestment schedule?
 - [ ] Is there company profit sharing?
 - [ ] Is there a pension plan?
 - [ ] Are there any health benefits? Gym membership/workout equipment?
