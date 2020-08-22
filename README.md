@@ -35,7 +35,10 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 
 - [ ] What is the pay schedule?
 - [ ] Are there bonuses? If so, what is the bonus structure?
-- [ ] What are the average bonuses, (per organizational level,) per year?
+- [ ] Is overtime allowed? Encouraged? Expected?
+- [ ] Does overtime require approval?
+- [ ] At what rate is overtime?
+- [ ] What are the average bonuses, (per organizational level) per year?
 - [ ] How often are cost of living increases?
 - [ ] What is the typical raise schedule?
 - [ ] Who owns the company?
