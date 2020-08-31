@@ -24,10 +24,10 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 
 - [ ] Is there a standardized email platform?
 - [ ] Is there a standardized chat client?
-- [ ] Is there a standardized documents or presentation software?
+- [ ] Is there a standardized document or presentation software?
 - [ ] Is there a standardized video chat platform?
 - [ ] Is there a compliance or employee monitoring software client?
-- [ ] Is there a company newsletter/email? Frequncy?
+- [ ] Is there a company newsletter/email? Frequency?
 - [ ] Is there a removable media logging / usage / authorization requirement? If so, what are the procedures?
 - [ ] Are there company meetings? Frequency?
 
