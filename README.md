@@ -22,7 +22,7 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 
 # Communication Questions
 
-- [ ] Is there a standardized email client?
+- [ ] Is there a standardized email platform?
 - [ ] Is there a standardized chat client?
 - [ ] Is there a standardized documents or presentation software?
 - [ ] Is there a standardized video chat platform?
