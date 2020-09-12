@@ -76,6 +76,7 @@ The purpose of these questions isn't to force a right or wrong answer, but to he
 - [ ] Is there life insurance? Who is the coverage through? Does the company pay the premiums?
 - [ ] Is there dental insurance? Who is the coverage through? Does the company pay the premiums?
 - [ ] Is there vision insurance? Who is the coverage through? Does the company pay the premiums?
+- [ ] When do the insurance coverages (if any) begin? Is there a delay in coverage?
 - [ ] Is there maternity/paternity/adoption leave? If so, how much?
 - [ ] Is there berevement leave? If so, how much?
 - [ ] Are there work from home (WFH) options?
